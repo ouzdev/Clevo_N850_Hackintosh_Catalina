@@ -1,7 +1,7 @@
 
 
 
-# Clover N850 Hackintosh Catalina Installation Guide (Monster Abra A5 v9.2)
+# Clevo N850 Hackintosh Catalina Installation Guide (Monster Abra A5 v9.2)
 
 ![clevo_n850_monster_abra_a50](https://i.imgyukle.com/2020/01/29/Vf710R.png)
 
